@@ -1,9 +1,16 @@
-# 📦 ZipUnzip – Dosya Sıkıştırma Algoritması
+#  ZipUnzip – Dosya Sıkıştırma Algoritması
 
-## 🧠 Proje Hakkında
-Bu proje, **Bilgisayar Ağları** dersi kapsamında geliştirilmiş bir **dosya sıkıştırma (zip/unzip)** uygulamasıdır.  
+##  Proje Hakkında
+Bu proje,Dr. Öğretim Üyesi Hasan SERDAR **Bilgisayar Ağları** dersi kapsamında geliştirilmiş bir **dosya sıkıştırma (zip/unzip)** uygulamasıdır.  
 Amaç, büyük boyutlu dosyaları daha az yer kaplayacak şekilde sıkıştırmak ve gerektiğinde tekrar açabilmektir.
-
+Arda Salih Topaloğlu 23370031029  
+Tuğba Enzel Yılmaz 23370031045
+Eyüp Aybey 23370031044
+Meryem Bozkurt 23370031015
+Ahmet Efe Başaran 23370031047
+Ahmet Burak Şahin 233700343
+Ali Talha Biçer 23370031011
+Helin Akalın 23370031007
 ## ⚙️ Kullanılan Teknolojiler
 - **Python 3.x**
 - **Tkinter** – Grafiksel kullanıcı arayüzü (GUI) için  
