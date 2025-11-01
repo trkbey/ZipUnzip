@@ -1,6 +1,5 @@
 #  ZipUnzip – Dosya Sıkıştırma Algoritması
-
-[![Watch the video]https://i.ytimg.com/an_webp/naCistNh1qk/mqdefault_6s.webp?du=3000&sqp=CIrJmMgG&rs=AOn4CLCUmEumxutbRrnojVf1sBHn4zDhug)](https://youtu.be/naCistNh1qk)
+[![Watch the video](https://i9.ytimg.com/vi_webp/naCistNh1qk/mq1.webp?sqp=CIDdmMgG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGMgRyhyMA8=&rs=AOn4CLDoJq5PV4_Y3Hfbpq0QzBHB-qrzYQ)](https://youtu.be/naCistNh1qk?si=6PDSi7oHPaN-USU1)
 
 ##  Proje Hakkında
 Bu proje,Dr. Öğretim Üyesi Hasan SERDAR **Bilgisayar Ağları** dersi kapsamında geliştirilmiş bir **dosya sıkıştırma (zip/unzip)** uygulamasıdır.  
