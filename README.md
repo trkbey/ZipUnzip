@@ -4,7 +4,7 @@ YOUTUBE VIDEOSU
 [![Watch the video](https://img.youtube.com/vi/naCistNh1qk/mqdefault.jpg)](https://youtu.be/naCistNh1qk?si=6PDSi7oHPaN-USU1)
 
 ##  Proje Hakkında
-Bu proje,Dr. Öğretim Üyesi Hasan SERDAR **Bilgisayar Ağları** dersi kapsamında geliştirilmiş bir **dosya sıkıştırma (zip/unzip)** uygulamasıdır.  
+Bu proje,Dr. Öğretim Üyesi Hasan SERDAR **Isletim sistemleri** dersi kapsamında geliştirilmiş bir **dosya sıkıştırma (zip/unzip)** uygulamasıdır.  
 Amaç, büyük boyutlu dosyaları daha az yer kaplayacak şekilde sıkıştırmak ve gerektiğinde tekrar açabilmektir.
 Arda Salih Topaloğlu 23370031029  
 Tuğba Enzel Yılmaz 23370031045
